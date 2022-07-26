@@ -1,11 +1,7 @@
 {
+    "stack": "heroku-22",
     "name": "go-heroku-mini-template",
     "description": "A minimal configuration for running go on heroku",
-    "keywords": [
-        "go",
-        "heroku",
-        "template"
-    ],
     "website": "https://github.com/barskern/go-heroku-mini-template",
-    "repository": "https://github.com/barskern/go-heroku-mini-template"
+    "repository": "https://github.com/anonymouslibs/go-heroku-mini-template"
 }
